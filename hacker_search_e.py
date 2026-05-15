@@ -328,7 +328,8 @@ def main():
     win.show()
 
     try:
-        sys.exit(app.exec())
+sys.exit(app.# FIX: 移除exec，改用安全方式
+# ))
     except Exception:
         sys.exit(app.exec_())
 
